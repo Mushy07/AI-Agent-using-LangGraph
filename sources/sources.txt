@@ -22,8 +22,28 @@ CONTENT: Space exploration has led to numerous discoveries about our solar syste
 URL: https://example.com/photography
 CONTENT: Photography is the art and science of capturing light to create images and preserve memories.
 ---
+URL: https://www.ibm.com/topics/ai-agents
+CONTENT: An AI agent is a system that perceives its environment, makes decisions, and takes actions to achieve specific goals. 
+AI agents often use a combination of reasoning, memory, and tool usage to perform tasks autonomously. 
+They can range from simple rule-based systems to complex agents powered by large language models that plan, reason, and adapt over time.
+---
+URL: https://www.geeksforgeeks.org/intelligent-agents-in-ai/
+CONTENT: An intelligent agent is an autonomous entity that observes its environment through sensors and acts upon that environment using actuators. 
+The core properties of intelligent agents include autonomy, reactivity, proactiveness, and social ability. 
+Agents can be classified as simple reflex agents, model-based agents, goal-based agents, and learning agents.
+---
 TITLE: Coffee History
 CONTENT: Coffee was discovered in Ethiopia and has become one of the most consumed beverages globally.
+---
+TITLE: LangGraph Framework Overview
+CONTENT: LangGraph is a framework designed for building stateful, multi-step AI agent workflows using a graph-based abstraction. 
+It enables developers to define nodes as computational units and edges as control flow paths. 
+LangGraph supports conditional routing, persistent state management, and tool integration, making it suitable for complex agent systems.
+---
+TITLE: State Management in AI Agents
+CONTENT: State management is a critical aspect of AI agent design. 
+An agent’s state represents all information required to make decisions across interactions, including conversation history, intermediate results, and errors. 
+Clear separation between short-term working memory and long-term memory helps prevent unintended behavior and ensures predictable responses.
 ---
 TITLE: Classical Music
 CONTENT: Classical music encompasses a broad tradition of Western art music spanning from the medieval period to today.
@@ -33,12 +53,6 @@ CONTENT: Gardening involves cultivating plants and provides benefits for mental 
 ---
 TITLE: World Cuisine
 CONTENT: Different cultures have developed unique cooking traditions and flavors over thousands of years.
----
-TITLE: Ancient Egypt
-CONTENT: Ancient Egypt was one of the world's first great civilizations, known for pyramids and hieroglyphics.
----
-TITLE: Renewable Energy
-CONTENT: Renewable energy sources like solar and wind power provide sustainable alternatives to fossil fuels.
 ---
 TITLE: Book Publishing
 CONTENT: The invention of the printing press revolutionized how knowledge and stories are shared across society.
